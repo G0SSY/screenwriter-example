@@ -1,13 +1,14 @@
 # Screenwriter Example Project
 This is the Example Project for the Unreal Engine 4 Plugin Screenwriter. 
 
-The project contains three maps in the "Screenwriter" content folder. 
+The project contains four maps in the "Screenwriter" content folder. 
 
 * CutsceneExample - Contains a single "triggered" cutscene assuming control of an NPC
 * DialogueExample - Contains an "approachable" NPC that, when interacted with, intiates a Dialogue that the player participates in.
+* FirstPersoneExample - As above, excpet using a First Person Character perspective.
 * InteractiveActExample - A scene with a UI for sending the controlled NPC between a series of points, demonstrating the "Branching" capability of the Plugin.
 
 ## Usage
-To run this project, you will first need to purchase the Screenwriter plugin from the Unreal Engine Marketplace: com.epicgames.launcher://ue/marketplace/content/c636fa758b3f4ad29d9f9c4c15c81f02.
+To run this project, you will first need to purchase the plugin: [Screenwriter - UE4 Marketplace](https://www.unrealengine.com/marketplace/screenwriter)
 
-The Project was created in Unreal Engine 4.17, and so will be compatible with any version from it onwards. Unfortunately you will need to upgrade from prior versions to use this Project.
+The Project is currently maintained in Unreal Engine 4.18. See the Git Repository Tags for previous engine versions, but note that these will not be guaranteed to work.
