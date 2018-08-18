@@ -1,12 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.18",
+	"EngineAssociation": "4.20",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
 		{
 			"Name": "Screenwriter",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/c636fa758b3f4ad29d9f9c4c15c81f02"
 		}
 	]
 }
